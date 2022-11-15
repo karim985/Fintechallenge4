@@ -19,7 +19,7 @@ import pathlib
 to view this work:
 - first you need to clone this to file to your mashine and unloded it to your Jupyter lab notbook
 - second seclect the play botton on the top to view the result of each section
-![]()
+![jupyter lab](https://github.com/karim985/Fintechallenge4/blob/main/Starter_Code%202/Image/image1.png)
 
 ## Contributors 
 Karim Bouzina [linkedin](https://www.linkedin.com/feed/)
